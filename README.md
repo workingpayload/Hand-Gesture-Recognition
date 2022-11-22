@@ -10,36 +10,42 @@
   
   
 ## LANDMARKS TRACKING
+> Sample.py
 
 ![Tracking](https://user-images.githubusercontent.com/48465143/203244043-af4e9f5a-74bb-4c3f-94f9-edcf9e1887f4.png)
 
 
 
 ## VIRTUAL MOUSE POINTER
+> MenuScreen.py
 
 ![Pointer](https://user-images.githubusercontent.com/48465143/203244224-7e125a72-d695-44d7-aaad-1385ca14b161.png)
 
 
 
 ## FINGER COUNTER
+> FingerCounter.py
 
 ![Counting](https://user-images.githubusercontent.com/48465143/203244312-e1eacf0e-7145-41fa-8d74-39a4d8f961cc.png)
 
 
 
 ## VOLUME CONTROLLER
+> VolumeControl.py
 
 ![Volume](https://user-images.githubusercontent.com/48465143/203244310-70048abb-a9a0-431e-b68c-94406ad2c82a.png)
 
 
 
 ## ROCK-PAPER-SCISSORS GAME 
+> RockPaperScissorsGame.py
 
 ![RPC](https://user-images.githubusercontent.com/48465143/203244296-7a36de7e-1f38-461e-a1ee-cd6d40d2cc69.png)
 
 
 
 ## SNAKE GAME
+> SnakeGame.py
 
 ![Snake](https://user-images.githubusercontent.com/48465143/203244305-5262d75c-1fc2-4849-9cd5-285c658e59e8.png)
 
