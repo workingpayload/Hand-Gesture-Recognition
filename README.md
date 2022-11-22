@@ -1,5 +1,5 @@
 # **Hand-Gesture-Recognition**
-*College mini project.*
+*Master's mini project.*
 
   We perform `Hand Gesture Recognition`, making use of Google's `Mediapipe` framework in python, without any physical aid being affixed to hands.
 
