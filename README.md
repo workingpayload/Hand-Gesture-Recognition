@@ -1,5 +1,7 @@
 # **Hand-Gesture-Recognition**
-*Master's mini project.*
+>*Master's mini project.*
+
+>*Project members: Srishty Singh(https://www.github.com/srishty-singh2k), Raj Pratap Singh(https://www.github.com/workingpayload)*
 
   We perform `Hand Gesture Recognition`, making use of Google's `Mediapipe` framework in python, without any physical aid being affixed to hands.
 
